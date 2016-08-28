@@ -1,0 +1,18 @@
+## Interface: 60000
+## Title: Legion announcer
+## Version: 0.2
+## Notes: Countdown clock for the legion launch
+## Author: Abdellatif - Programmer, Nick - Graphical Designer
+
+LegionAnnouncer.lua
+
+
+
+
+
+
+
+
+
+
+
