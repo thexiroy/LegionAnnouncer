@@ -5,14 +5,3 @@
 ## Author: Abdellatif - Programmer, Nick - Graphical Designer
 
 LegionAnnouncer.lua
-
-
-
-
-
-
-
-
-
-
-
